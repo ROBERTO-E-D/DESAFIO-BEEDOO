@@ -2,6 +2,11 @@
 # versão 1.0 #
 # autor: José Roberto de Azevedo #
 
+Casos de testes criados no Google Sheets : 
+
+https://docs.google.com/spreadsheets/d/10fsVOVkcXcT4LBvV-9iXHkbSXryO6OaSkT0CMddqwas/edit?usp=sharing
+
+
 
 Desafio | Analista de Qualidade de Software Júnior
 
